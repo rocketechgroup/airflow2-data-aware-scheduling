@@ -1,6 +1,9 @@
-# Airflow 2 - Local Lightweight Version
+# Airflow 2 - Data Aware Scheduling
 
 ## Why
+Data Aware Scheduling is a new feature comes with Airflow 2.4. It's a very powerful feature allows DAGs to be triggered via a data URI.
+
+## The Local Airflow Setup
 The default Airflow Docker Compose environment is based on CeleryExecutor which is quite resource heavy. 
 
 This example is based on the official base Airflow 2 docker compose file and the article https://datatalks.club/blog/how-to-setup-lightweight-local-version-for-airflow.html
