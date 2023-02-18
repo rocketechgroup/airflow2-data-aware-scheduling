@@ -6,7 +6,7 @@ Data Aware Scheduling is a new feature comes with Airflow 2.4. It's a very power
 via a data URI. This repository contains a set of examples on how this can be used to track & trigger dependencies
 across multiple functional teams.
 
-[what it might look like in a large org](docs/data_aware_scheduling_in_large_org.png)
+![What it might look like in a large org](docs/data_aware_scheduling_in_large_org.png "Large Org")
 
 ## The Local Airflow Setup
 
